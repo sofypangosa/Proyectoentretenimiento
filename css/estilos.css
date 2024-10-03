@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+}
+header{
+    background-color: #d90ad9;
+    color: white;
+}
+
+/*Estilos del menu de navegacion */
+.navbar {
+    background-color: gray;
+}
+.navbar  .nav-link {
+    color: black;
+}
+
+.navar  .nav-link:hover {
+    color: #0056b3;
+}
+
+/*Estilos de las tarjetas*/
+
+.card {
+    border: solid 5px #6f60e2;
+}
+
+.card .btn {
+    background-color: darkgray;
+    color: white;
+}
+
+.card .btn:hover {
+    background-color: #6f60e2;
+}
+
+.btn-primary {
+    background-color: darkgray;
+    border-color: darkgray;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: gray;
+}
+
+/*Estilos del pie de pagina */
+footer {
+    background-color: #d3d3d3;
+    color: black;
+}
